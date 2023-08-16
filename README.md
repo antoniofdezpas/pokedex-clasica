@@ -11,3 +11,7 @@ Proyecto creado con HTML, CSS y Javascript intentando replicar la mítica Pokede
 - CSS
 - Vanilla JS
 - Fetching data from an API
+
+# Demo
+
+Puedes probarla en https://antoniofdezpas.github.io/pokedex-clasica/
